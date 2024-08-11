@@ -1,8 +1,9 @@
-# Movie Atlas
+# Movie Atlas Telugu
 
-**Movie Atlas** is a comprehensive platform designed for movie enthusiasts. It provides detailed movie information, reviews, ratings, OTT platform availability, and highlights must-watch blockbusters.
+**Movie Atlas Telugu** is a comprehensive platform designed for movie enthusiasts. It provides detailed movie information, reviews, ratings, OTT platform availability, and highlights must-watch blockbusters.
 
-![image](https://github.com/user-attachments/assets/a7c9fcd9-7545-4103-b937-95d433e5103b)
+![image](https://github.com/user-attachments/assets/36a55901-dcfa-4e81-bee0-4b3c9c6662c1)
+
 
 ## Table of Contents
 
@@ -30,7 +31,7 @@ Movie Atlas is an interactive website offering a wealth of information about fil
 
 ## Installation
 
-To run Movie Atlas locally, follow these steps:
+To run Movie Atlas Telugu locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
